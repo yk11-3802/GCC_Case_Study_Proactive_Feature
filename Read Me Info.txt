@@ -1,0 +1,21 @@
+Read Me Info
+
+
+
+First:
+
+Use the pw.py file to get an encrypted password for your general password of LinkedIn and Encryption Key.
+
+Second:
+
+Now come to the Final.py file
+
+Enter the LinkedIn Username
+Enter the Encryption key and Encrypted password
+
+
+Third:
+
+Enter the senders email address
+Enter the smtp/app password for the above email
+Enter the recipient mail id
